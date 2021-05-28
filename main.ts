@@ -1,5 +1,5 @@
 basic.forever(function () {
-    basic.showString("Nil")
+    basic.showString("NIL")
 })
 basic.forever(function () {
     if (cuteBot.ultrasonic(cuteBot.SonarUnit.Centimeters) < 13 && cuteBot.ultrasonic(cuteBot.SonarUnit.Centimeters) > 1.3) {
